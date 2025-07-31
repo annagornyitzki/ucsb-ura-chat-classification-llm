@@ -1,1 +1,1 @@
-# ucsb-undergrad-llm-text-pipeline
+# ucsb-ura-chat-classification-llm
