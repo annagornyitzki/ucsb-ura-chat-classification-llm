@@ -1,7 +1,7 @@
 
-# UCSB URA Chat Classification LLM
+# UCSB URA Chat Log Classification using LLM
 
-This repository contains code, data, and outputs for the UCSB Undergraduate Research Assistant (URA) project on chat classification using large language models (LLMs). The project analyzes chat transcripts from experimental economics games and classifies them into categories such as Coordination, Efficiency, Conflict, Inequality, and Unknown.
+This repository contains code, data, and outputs for my UCSB Undergraduate Research Assistant (URA) project on chat classification using large language models (LLMs). The project analyzes chat transcripts from experimental economics games and classifies them into categories such as Coordination, Efficiency, Conflict, Inequality, and Unknown.
 
 ## Repository Structure
 
